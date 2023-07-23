@@ -14,34 +14,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student of Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rice University
+    url: https://www.rice.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest are rooted in the realms of Digital Health and Bias in Health Sensors.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Privacy and Security in Digital Health
+  - AI and Machine Learning in Healthcare
+  - Wearable Health Technology
+  - Ethics in Digital Health
+  - Health Informatics
+  - Remote Patient Monitoring
+  - Human-Computer Interaction in Healthcare
+  - Health Data Analytics
+  - Public Health and Digital Interventions
+  - Telemedicine and Virtual Healthcare
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: Rice University
+      year: Present
+    - course: MS in Electrical Engineering
+      institution: Rice University
+      year: 2022
+    - course: BS in Electrical Engineering
+      institution: Tennessee State University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
